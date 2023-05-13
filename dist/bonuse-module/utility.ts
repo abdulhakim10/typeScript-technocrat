@@ -26,7 +26,7 @@ const person: Readonly<Person> = {
     contactNo: '8990949'
 };
 
-person.name =  'paalka'
+// person.name =  'paalka'
 
 // type MyObj = {
 //     a: string;
